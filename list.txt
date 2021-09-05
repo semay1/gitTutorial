@@ -1,0 +1,5 @@
+Operating System
+DSA
+API
+Languages
+Abstraction
